@@ -55,8 +55,8 @@ Hi! 我是 Vunsen，一名热爱编程的开发者。
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img width=450 height=170 src="https://github-readme-stats.vercel.app/api?username=vunsen&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img width=450 height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vunsen&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  <img width=450 height=170 src="https://github-readme-stats.vercel.app/api?username=vunsen&show_icons=true&hide_border=true" />
+  <img width=450 height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vunsen&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <br/>
