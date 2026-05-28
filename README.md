@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+World!+👋;I'm+Vunsen;Nice+to+meet+you!;祝您今天愉快!☀️" />
+<img src="https://dev.evalexpr.net/image?lines=Hello+World!+👋;I'm+Vunsen;Nice+to+meet+you!;祝您今天愉快!☀️&font=Righteous&size=45&center=true&vCenter=true&width=700&height=70&duration=4000" />
 
 <br/>
 
@@ -21,7 +21,7 @@
 <br/>
 
 <!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=vunsen&style=for-the-badge&color=orange" alt="Profile views" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=vunsen" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/vunsen?logo=github&style=for-the-badge&color=blue" alt="Followers" />
 
 </div>
@@ -55,8 +55,8 @@ Hi! 我是 Vunsen，一名热爱编程的开发者。
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img width=450 height=170 src="https://github-readme-stats.vercel.app/api?username=vunsen&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img width=450 height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vunsen&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  <img width=450 height=170 src="https://readme-stats.vercel.app/api?username=vunsen&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width=450 height=170 src="https://readme-stats.vercel.app/api/top-langs/?username=vunsen&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <br/>
@@ -65,7 +65,7 @@ Hi! 我是 Vunsen，一名热爱编程的开发者。
 ## 🔥 贡献图
 
 <div align="center">
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vunsen&theme=tokyo-night&hide_border=true&area=true" />
+  <img alt="Contribution Graph" src="https://activity-graph.githubusercontent.com/graph?username=vunsen&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 <br/>
@@ -74,7 +74,7 @@ Hi! 我是 Vunsen，一名热爱编程的开发者。
 ## ⚡ 连续提交
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vunsen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vunsen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -101,7 +101,7 @@ Hi! 我是 Vunsen，一名热爱编程的开发者。
 ## 💭 生活不止代码
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+  <img src="https://quotes.dad.workers.dev/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
 </div>
 
 <br/>
