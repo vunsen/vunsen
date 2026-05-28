@@ -1,7 +1,7 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Vunsen祝您今天愉快!&center=true&size=27"> </a> </h1>
 
 <div>
-  <a href=""><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+  <a href=""><img src="https://img.shields.io/badge/X-小溪-blue" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=vunsen&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   <!-- wakatime -->
