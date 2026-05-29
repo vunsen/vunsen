@@ -55,8 +55,8 @@ Hi! 我是 Vunsen，一名热爱编程的开发者。
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img width=450 height=170 src="https://github-readme-stats.vercel.app/api?username=vunsen&show_icons=true&hide_border=true" />
-  <img width=450 height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vunsen&show_icons=true&hide_border=true&layout=compact" />
+  <img width=450 height=170 src="https://github-readme-stats.vercel.app/api?username=vunsen" />
+  <img width=450 height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vunsen" />
 </div>
 
 <br/>
@@ -80,7 +80,7 @@ Hi! 我是 Vunsen，一名热爱编程的开发者。
 <br/>
 
 <!-- WakaTime Stats -->
-## ⏱️ 编码时间
+## ⏱️ 修炼
 
 <div align="center">
   <img src="https://github-immortality.vercel.app/api?username=vunsen" width="80%" />
