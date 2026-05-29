@@ -83,7 +83,7 @@ Hi! 我是 Vunsen，一名热爱编程的开发者。
 ## ⏱️ 编码时间
 
 <div align="center">
-  <img src="https://wakatime.com/share/@vunsen/456e8e57-259a-4d8b-9d3c-9735f8b9e53c.svg" width="80%" />
+  <img src="https://github-immortality.vercel.app/api?username=vunsen" width="80%" />
 </div>
 
 <br/>
