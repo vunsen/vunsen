@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hello+World!+👋;I'm+Vunsen;Nice+to+meet+you!;祝您今天愉快!☀️" />
@@ -92,7 +92,7 @@ Hi! 我是 Vunsen，一名热爱编程的开发者。
 ## 🏆 GitHub 奖杯
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vunsen&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://trophy.benkou.dev/?username=vunsen&theme=light" alt="GitHub Trophies" />
 </div>
 
 <br/>
